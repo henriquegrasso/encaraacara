@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="st_novojogo">NOVO JOGO</string>
+    <string name="st_instrucoes">INSTRUÇÕES</string>
+    <string name="st_som">SOM?</string>
+    <string name="st_mantersom">MANTER SOM?</string>
+    <string name="st_instA">Cada jogador deve escolher um personagem</string>
+    <string name="st_instB">Em cada rodada, faça perguntas para adivinhar o personagem do seu amigo</string>
+    <string name="st_instC">As respostas devem ser apenas \'SIM\' ou \'NÃO\'</string>
+    <string name="st_InstD">Elimine as opções que não satisfazem a resposta dada pelo outro jogador</string>
+    <string name="st_instE">Vence quem adivinhar o personagem primeiro</string>
+</resources>
